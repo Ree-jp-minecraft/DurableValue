@@ -1,5 +1,5 @@
-name: name
+name: DurableValue
 api: 3.0.0
-main: ree\template\Main
+main: ree\durable\Main
 version: 1.0.0
 author: ree-jp
